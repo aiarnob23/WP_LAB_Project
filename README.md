@@ -31,10 +31,8 @@ To run the project locally:
 
 ```bash
 # 1. Clone the repository or download the ZIP
-git clone [https://github.com/your-username/task-manager.git](https://github.com/aiarnob23/WP_LAB_Project.git)
 
 # 2. Navigate to the project directory
-cd task-manager
 
 # 3. Install dependencies
 npm install
