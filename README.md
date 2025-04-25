@@ -20,7 +20,8 @@ A minimal and intuitive task management web application built with **React**, **
 ## ⚙️ Tech Stack
 
 - React  
-- Tailwind CSS  
+- Tailwind CSS
+- TypeScript
 - JavaScript  
 - React Router (if applicable)
 
