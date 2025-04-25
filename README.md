@@ -4,10 +4,11 @@ A minimal and intuitive task management web application built with **React**, **
 
 ## 🚀 Features
 
-- Add, edit, and delete tasks  
+- Add, edit, and delete tasks
+- Filtering, Sorting options
 - Responsive design  
 - Dark/light theme support  
-- Clean and simple UI  
+
 
 ---
 
